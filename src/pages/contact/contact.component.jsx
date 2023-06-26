@@ -22,31 +22,35 @@ class Contact extends React.Component {
             Frontend developer and Javascript engineer, Photochromic Lens
             enthusiast, practicing minimalist, and Pop Music & Jazz lover in
             search of flow. Working with my hands to make magic happen on the
-            internet. View my Projects, Articles, Resumé, Contact Me, or send me
-            an email at hellocodewonders@gmail.com.
+            internet. View my Projects, Resumé, Contact Me, or send me an email
+            at davisisibor@gmail.com.
           </h4>
           <hr />
           <div className="col-md-7 m-auto">
             <div className="card">
               <p>
-                Email: <b>hellocodewonders@gmail.com</b>
+                Email: <b>davisisibor@gmail.com</b>
               </p>
               <p>
                 Website:{' '}
                 <b>
-                  <a href="https://codewonders.dev">www.codewonders.dev</a>
+                  <a href="https://isibordavis.netlify.app/">
+                    www.isibordavis.netlify.app
+                  </a>
                 </b>
               </p>
               <p>
                 Twitter:{' '}
                 <b>
-                  <a href="https://twitter.com/code_wonders">Twitter Profile</a>
+                  <a href="https://twitter.com/kosekwu123?t=1HaGhdnONmbSSTcVPRgnHg&s=09">
+                    Twitter Profile
+                  </a>
                 </b>
               </p>
               <p>
                 LinkedIn:{' '}
                 <b>
-                  <a href="https://linkedin.com/in/codewonders">
+                  <a href="https://ng.linkedin.com/in/davis-isibor-05974b1bb">
                     Linked Profile
                   </a>
                 </b>
